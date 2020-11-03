@@ -1,0 +1,15 @@
+C:\Users\MM\source\repos\ChatV2\bin\Debug\netcoreapp3.1\ChatV2.exe
+C:\Users\MM\source\repos\ChatV2\bin\Debug\netcoreapp3.1\ChatV2.deps.json
+C:\Users\MM\source\repos\ChatV2\bin\Debug\netcoreapp3.1\ChatV2.runtimeconfig.json
+C:\Users\MM\source\repos\ChatV2\bin\Debug\netcoreapp3.1\ChatV2.runtimeconfig.dev.json
+C:\Users\MM\source\repos\ChatV2\bin\Debug\netcoreapp3.1\ChatV2.dll
+C:\Users\MM\source\repos\ChatV2\bin\Debug\netcoreapp3.1\ChatV2.pdb
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.csprojAssemblyReference.cache
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.Form1.resources
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.csproj.GenerateResource.cache
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.AssemblyInfoInputs.cache
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.AssemblyInfo.cs
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.csproj.CoreCompileInputs.cache
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.dll
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.pdb
+C:\Users\MM\source\repos\ChatV2\obj\Debug\netcoreapp3.1\ChatV2.genruntimeconfig.cache
